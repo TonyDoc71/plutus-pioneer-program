@@ -1,4 +1,4 @@
-example/
+
 .idea/
 *.iml
 
@@ -9,4 +9,4 @@ private-testnet/
 logs/
 
 script-example/project/dist-newstyle/
-script-example/project/out/*
+script-example/project/out
