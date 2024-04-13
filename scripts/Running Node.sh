@@ -5,6 +5,7 @@ cardano-node run
 
 
 
+
 Cardano blockchain nets:
 Testnet
 There are two types of testnet: preview and pre-prod.
