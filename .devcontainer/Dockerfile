@@ -30,6 +30,8 @@ RUN apt-get update -y && apt-get install -y \
   pkg-config \
   tmux \
   wget \
+  bsmainutils \
+  vim-common \
   zlib1g-dev libreadline-dev llvm libnuma-dev \
   && rm -rf /var/lib/apt/lists/*
 
